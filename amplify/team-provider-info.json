@@ -1,0 +1,15 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-shopify-prod-170921-authRole",
+            "UnauthRoleArn": "arn:aws:iam::577550417869:role/amplify-shopify-prod-170921-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::577550417869:role/amplify-shopify-prod-170921-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-shopify-prod-170921-deployment",
+            "UnauthRoleName": "amplify-shopify-prod-170921-unauthRole",
+            "StackName": "amplify-shopify-prod-170921",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:577550417869:stack/amplify-shopify-prod-170921/f65fd7e0-e060-11ea-90cd-0eb7b90bbf8e",
+            "AmplifyAppId": "dvzvufknaj0c5"
+        }
+    }
+}
